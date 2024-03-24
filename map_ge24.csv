@@ -1,0 +1,633 @@
+objct_d,cnsttn_,dscrptn,ONSCnID,regn_nm,shp_lng,shape_r,prty_cl,wnnr_19
+1,North Thanet,Westminster Constituency,E14000852,South East Euro Region,106798.877597,823157164.723,#0087DC,Conservative
+2,Canterbury,Westminster Constituency,E14000619,South East Euro Region,106798.887591,823157318.737,#DC241F,Labour
+3,South Thanet,Westminster Constituency,E14000948,South East Euro Region,106798.924488,823157887.505,#0087DC,Conservative
+4,Norwich South,Westminster Constituency,E14000864,Eastern Euro Region,106799.371719,823164781.674,#DC241F,Labour
+5,Great Yarmouth,Westminster Constituency,E14000717,Eastern Euro Region,106799.363204,823164650.419,#0087DC,Conservative
+6,Maldon,Westminster Constituency,E14000806,Eastern Euro Region,106799.59594,823168238.068,#0087DC,Conservative
+7,Southend West,Westminster Constituency,E14000957,Eastern Euro Region,106799.351851,823164475.412,#0087DC,Conservative
+8,Rochford and Southend East,Westminster Constituency,E14000899,Eastern Euro Region,106799.12763,823161019.02,#0087DC,Conservative
+9,Ashford,Westminster Constituency,E14000536,South East Euro Region,106799.110601,823160756.509,#0087DC,Conservative
+10,Sittingbourne and Sheppey,Westminster Constituency,E14000927,South East Euro Region,106799.536336,823167319.28,#0087DC,Conservative
+11,Dover,Westminster Constituency,E14000670,South East Euro Region,106799.22413,823162506.581,#0087DC,Conservative
+12,Norwich North,Westminster Constituency,E14000863,Eastern Euro Region,106798.668377,823153939.603,#0087DC,Conservative
+13,South Norfolk,Westminster Constituency,E14000941,Eastern Euro Region,106798.994774,823158971.032,#0087DC,Conservative
+14,Waveney,Westminster Constituency,E14001022,Eastern Euro Region,106799.040187,823159671.057,#0087DC,Conservative
+15,Rayleigh and Wickford,Westminster Constituency,E14000888,Eastern Euro Region,106799.281436,823163389.939,#0087DC,Conservative
+16,Castle Point,Westminster Constituency,E14000622,Eastern Euro Region,106799.003292,823159102.286,#0087DC,Conservative
+17,South Basildon and East Thurrock,Westminster Constituency,E14000933,Eastern Euro Region,106799.011803,823159233.542,#0087DC,Conservative
+18,Rochester and Strood,Westminster Constituency,E14000898,South East Euro Region,106799.0487,823159802.312,#0087DC,Conservative
+19,Gillingham and Rainham,Westminster Constituency,E14000711,South East Euro Region,106799.020318,823159364.796,#0087DC,Conservative
+20,Faversham and Mid Kent,Westminster Constituency,E14000700,South East Euro Region,106799.057215,823159933.566,#0087DC,Conservative
+21,Folkestone and Hythe,Westminster Constituency,E14000704,South East Euro Region,106799.077083,823160239.827,#0087DC,Conservative
+22,North Norfolk,Westminster Constituency,E14000848,Eastern Euro Region,106798.536179,823151901.771,#0087DC,Conservative
+23,Suffolk Coastal,Westminster Constituency,E14000981,Eastern Euro Region,106799.066929,823160083.312,#0087DC,Conservative
+24,Ipswich,Westminster Constituency,E14000761,Eastern Euro Region,106799.058414,823159952.057,#0087DC,Conservative
+25,Clacton,Westminster Constituency,E14000642,Eastern Euro Region,106799.291149,823163539.685,#0087DC,Conservative
+26,Brentwood and Ongar,Westminster Constituency,E14000594,Eastern Euro Region,106799.047061,823159777.051,#0087DC,Conservative
+27,Basildon and Billericay,Westminster Constituency,E14000544,Eastern Euro Region,106798.822841,823156320.679,#0087DC,Conservative
+28,Thurrock,Westminster Constituency,E14000995,Eastern Euro Region,106799.058414,823159952.058,#0087DC,Conservative
+29,Gravesham,Westminster Constituency,E14000715,South East Euro Region,106798.805811,823156058.17,#0087DC,Conservative
+30,Chatham and Aylesford,Westminster Constituency,E14000626,South East Euro Region,106799.231546,823162620.903,#0087DC,Conservative
+31,Maidstone and The Weald,Westminster Constituency,E14000804,South East Euro Region,106798.919341,823157808.231,#0087DC,Conservative
+32,Hastings and Rye,Westminster Constituency,E14000735,South East Euro Region,106799.271282,823163233.425,#0087DC,Conservative
+33,Broadland,Westminster Constituency,E14000603,Eastern Euro Region,106799.006448,823159150.992,#0087DC,Conservative
+34,Central Suffolk and North Ipswich,Westminster Constituency,E14000624,Eastern Euro Region,106798.660183,823153813.304,#0087DC,Conservative
+35,South Suffolk,Westminster Constituency,E14000946,Eastern Euro Region,106798.98658,823158844.732,#0087DC,Conservative
+36,Harwich and North Essex,Westminster Constituency,E14000734,Eastern Euro Region,106799.031993,823159544.757,#0087DC,Conservative
+37,Romford,Westminster Constituency,E14000900,London Euro Region,106799.273242,823163263.639,#0087DC,Conservative
+38,Hornchurch and Upminster,Westminster Constituency,E14000751,London Euro Region,106798.995098,823158975.986,#0087DC,Conservative
+39,Dagenham and Rainham,Westminster Constituency,E14000657,London Euro Region,106799.003609,823159107.242,#DC241F,Labour
+40,Erith and Thamesmead,Westminster Constituency,E14000696,London Euro Region,106799.040507,823159676.012,#DC241F,Labour
+41,Bexleyheath and Crayford,Westminster Constituency,E14000558,London Euro Region,106799.012124,823159238.496,#0087DC,Conservative
+42,Dartford,Westminster Constituency,E14000659,South East Euro Region,106799.049021,823159807.266,#0087DC,Conservative
+43,Tunbridge Wells,Westminster Constituency,E14001004,South East Euro Region,106799.068889,823160113.527,#0087DC,Conservative
+44,Bexhill and Battle,Westminster Constituency,E14000557,South East Euro Region,106799.051859,823159851.018,#0087DC,Conservative
+45,Mid Norfolk,Westminster Constituency,E14000816,Eastern Euro Region,106799.177837,823161792.897,#0087DC,Conservative
+46,Bury St. Edmunds,Westminster Constituency,E14000613,Eastern Euro Region,106798.675476,823154048.851,#0087DC,Conservative
+47,Braintree,Westminster Constituency,E14000590,Eastern Euro Region,106799.206219,823162230.413,#0087DC,Conservative
+48,Colchester,Westminster Constituency,E14000644,Eastern Euro Region,106799.197705,823162099.158,#0087DC,Conservative
+49,Ilford North,Westminster Constituency,E14000759,London Euro Region,106799.430437,823165686.796,#DC241F,Labour
+50,Barking,Westminster Constituency,E14000540,London Euro Region,106799.186352,823161924.152,#DC241F,Labour
+51,East Ham,Westminster Constituency,E14000679,London Euro Region,106798.962134,823158467.77,#DC241F,Labour
+52,Greenwich and Woolwich,Westminster Constituency,E14000718,London Euro Region,106799.197705,823162099.159,#DC241F,Labour
+53,Eltham,Westminster Constituency,E14000690,London Euro Region,106798.945105,823158205.26,#DC241F,Labour
+54,Old Bexley and Sidcup,Westminster Constituency,E14000869,London Euro Region,106799.370835,823164768.01,#0087DC,Conservative
+55,Wealden,Westminster Constituency,E14001023,South East Euro Region,106799.058633,823159955.327,#0087DC,Conservative
+56,Eastbourne,Westminster Constituency,E14000684,South East Euro Region,106799.41057,823165380.534,#0087DC,Conservative
+57,South West Norfolk,Westminster Constituency,E14000952,Eastern Euro Region,106798.378127,823149465.338,#0087DC,Conservative
+58,West Suffolk,Westminster Constituency,E14001034,Eastern Euro Region,106798.585316,823152659.175,#0087DC,Conservative
+59,Witham,Westminster Constituency,E14001045,Eastern Euro Region,106798.239054,823147321.529,#0087DC,Conservative
+60,Chelmsford,Westminster Constituency,E14000628,Eastern Euro Region,106798.565449,823152352.917,#0087DC,Conservative
+61,Chingford and Woodford Green,Westminster Constituency,E14000634,London Euro Region,106798.610862,823153052.936,#0087DC,Conservative
+62,Ilford South,Westminster Constituency,E14000760,London Euro Region,106798.852109,823156771.789,#DC241F,Labour
+63,West Ham,Westminster Constituency,E14001032,London Euro Region,106798.573967,823152484.171,#DC241F,Labour
+64,Poplar and Limehouse,Westminster Constituency,E14000882,London Euro Region,106798.582478,823152615.425,#DC241F,Labour
+65,"Lewisham, Deptford",Westminster Constituency,E14000789,London Euro Region,106798.619375,823153184.19,#DC241F,Labour
+66,Lewisham East,Westminster Constituency,E14000787,London Euro Region,106798.590993,823152746.679,#DC241F,Labour
+67,Bromley and Chislehurst,Westminster Constituency,E14000604,London Euro Region,106798.62789,823153315.443,#0087DC,Conservative
+68,Mid Sussex,Westminster Constituency,E14000817,South East Euro Region,106798.647757,823153621.702,#0087DC,Conservative
+69,Lewes,Westminster Constituency,E14000786,South East Euro Region,106798.630728,823153359.195,#0087DC,Conservative
+70,Cleethorpes,Westminster Constituency,E14000643,Yorkshire and the Humber Euro Region,106798.909301,823157653.397,#0087DC,Conservative
+71,Kingston upon Hull North,Westminster Constituency,E14000772,Yorkshire and the Humber Euro Region,106798.900786,823157522.142,#DC241F,Labour
+72,Louth and Horncastle,Westminster Constituency,E14000798,East Midlands Euro Region,106798.909301,823157653.396,#0087DC,Conservative
+73,Boston and Skegness,Westminster Constituency,E14000582,East Midlands Euro Region,106798.897948,823157478.391,#0087DC,Conservative
+74,South Holland and The Deepings,Westminster Constituency,E14000939,East Midlands Euro Region,106798.954712,823158353.42,#0087DC,Conservative
+75,Grantham and Stamford,Westminster Constituency,E14000714,East Midlands Euro Region,106798.795773,823155903.339,#0087DC,Conservative
+76,Corby,Westminster Constituency,E14000648,East Midlands Euro Region,106798.963227,823158484.673,#0087DC,Conservative
+77,North West Norfolk,Westminster Constituency,E14000859,Eastern Euro Region,106798.38707,823149603.134,#0087DC,Conservative
+78,South East Cambridgeshire,Westminster Constituency,E14000937,Eastern Euro Region,106798.889434,823157347.137,#0087DC,Conservative
+79,Saffron Walden,Westminster Constituency,E14000910,Eastern Euro Region,106798.38707,823149603.133,#0087DC,Conservative
+80,Hertford and Stortford,Westminster Constituency,E14000744,Eastern Euro Region,106798.917816,823157784.651,#0087DC,Conservative
+81,Harlow,Westminster Constituency,E14000729,Eastern Euro Region,106798.909301,823157653.396,#0087DC,Conservative
+82,Edmonton,Westminster Constituency,E14000687,London Euro Region,106799.142035,823161241.014,#DC241F,Labour
+83,Leyton and Wanstead,Westminster Constituency,E14000790,London Euro Region,106798.897948,823157478.391,#DC241F,Labour
+84,Hackney North and Stoke Newington,Westminster Constituency,E14000720,London Euro Region,106798.67373,823154022.028,#DC241F,Labour
+85,Hackney South and Shoreditch,Westminster Constituency,E14000721,London Euro Region,106798.909301,823157653.397,#DC241F,Labour
+86,Bethnal Green and Bow,Westminster Constituency,E14000555,London Euro Region,106798.6567,823153759.52,#DC241F,Labour
+87,Lewisham West and Penge,Westminster Constituency,E14000788,London Euro Region,106799.082432,823160322.234,#DC241F,Labour
+88,Beckenham,Westminster Constituency,E14000551,London Euro Region,106798.770229,823155509.576,#0087DC,Conservative
+89,Crawley,Westminster Constituency,E14000652,South East Euro Region,106799.122167,823160934.755,#0087DC,Conservative
+90,"Brighton, Kemptown",Westminster Constituency,E14000597,South East Euro Region,106798.378556,823149471.879,#DC241F,Labour
+91,Kingston upon Hull East,Westminster Constituency,E14000771,Yorkshire and the Humber Euro Region,106799.146956,823161316.938,#DC241F,Labour
+92,Haltemprice and Howden,Westminster Constituency,E14000724,Yorkshire and the Humber Euro Region,106798.77231,823155541.731,#0087DC,Conservative
+93,Kingston upon Hull West and Hessle,Westminster Constituency,E14000773,Yorkshire and the Humber Euro Region,106799.101545,823160616.913,#DC241F,Labour
+94,Great Grimsby,Westminster Constituency,E14000716,Yorkshire and the Humber Euro Region,106798.775148,823155585.483,#0087DC,Conservative
+95,Gainsborough,Westminster Constituency,E14000707,East Midlands Euro Region,106799.229265,823162585.733,#0087DC,Conservative
+96,Sleaford and North Hykeham,Westminster Constituency,E14000929,East Midlands Euro Region,106798.783663,823155716.738,#0087DC,Conservative
+97,Nottingham East,Westminster Constituency,E14000865,East Midlands Euro Region,106799.274677,823163285.759,#DC241F,Labour
+98,Rushcliffe,Westminster Constituency,E14000908,East Midlands Euro Region,106798.604855,823152960.389,#0087DC,Conservative
+99,Rutland and Melton,Westminster Constituency,E14000909,East Midlands Euro Region,106799.257648,823163023.25,#0087DC,Conservative
+100,Wellingborough,Westminster Constituency,E14001025,East Midlands Euro Region,106799.081677,823160310.652,#0087DC,Conservative
+101,North East Cambridgeshire,Westminster Constituency,E14000842,Eastern Euro Region,106798.82056,823156285.509,#0087DC,Conservative
+102,Cambridge,Westminster Constituency,E14000617,Eastern Euro Region,106799.02775,823159479.372,#DC241F,Labour
+103,North East Hertfordshire,Westminster Constituency,E14000845,Eastern Euro Region,106798.681486,823154141.681,#0087DC,Conservative
+104,Stevenage,Westminster Constituency,E14000968,Eastern Euro Region,106799.007883,823159173.112,#0087DC,Conservative
+105,Walthamstow,Westminster Constituency,E14001013,London Euro Region,106799.053296,823159873.137,#DC241F,Labour
+106,Islington North,Westminster Constituency,E14000763,London Euro Region,106799.294545,823163592.02,#DC241F,Labour
+107,Islington South and Finsbury,Westminster Constituency,E14000764,London Euro Region,106799.016401,823159304.366,#DC241F,Labour
+108,Bermondsey and Old Southwark,Westminster Constituency,E14000553,London Euro Region,106799.024912,823159435.621,#DC241F,Labour
+109,Camberwell and Peckham,Westminster Constituency,E14000615,London Euro Region,106799.061809,823160004.392,#DC241F,Labour
+110,Dulwich and West Norwood,Westminster Constituency,E14000673,London Euro Region,106799.033427,823159566.876,#DC241F,Labour
+111,Croydon North,Westminster Constituency,E14000655,London Euro Region,106799.070324,823160135.646,#DC241F,Labour
+112,Orpington,Westminster Constituency,E14000872,London Euro Region,106799.090192,823160441.907,#0087DC,Conservative
+113,"Brighton, Pavilion",Westminster Constituency,E14000598,South East Euro Region,106799.073162,823160179.398,#6AB023,Green
+114,East Yorkshire,Westminster Constituency,E14000683,Yorkshire and the Humber Euro Region,106799.10933,823160736.932,#0087DC,Conservative
+115,Beverley and Holderness,Westminster Constituency,E14000556,Yorkshire and the Humber Euro Region,106799.308007,823163799.544,#0087DC,Conservative
+116,Wentworth and Dearne,Westminster Constituency,E14001028,Yorkshire and the Humber Euro Region,106799.120683,823160911.938,#DC241F,Labour
+117,Doncaster North,Westminster Constituency,E14000669,Yorkshire and the Humber Euro Region,106799.112168,823160780.683,#DC241F,Labour
+118,Scunthorpe,Westminster Constituency,E14000914,Yorkshire and the Humber Euro Region,106799.129198,823161043.193,#0087DC,Conservative
+119,Newark,Westminster Constituency,E14000829,East Midlands Euro Region,106799.100815,823160605.677,#0087DC,Conservative
+120,Lincoln,Westminster Constituency,E14000792,East Midlands Euro Region,106799.120683,823160911.938,#0087DC,Conservative
+121,Gedling,Westminster Constituency,E14000710,East Midlands Euro Region,106799.10933,823160736.931,#0087DC,Conservative
+122,Nottingham South,Westminster Constituency,E14000867,East Midlands Euro Region,106799.166095,823161611.964,#DC241F,Labour
+123,Loughborough,Westminster Constituency,E14000797,East Midlands Euro Region,106799.007154,823159161.874,#0087DC,Conservative
+124,Kettering,Westminster Constituency,E14000769,East Midlands Euro Region,106799.174609,823161743.218,#0087DC,Conservative
+125,Northampton North,Westminster Constituency,E14000861,East Midlands Euro Region,106798.598448,823152861.643,#0087DC,Conservative
+126,Peterborough,Westminster Constituency,E14000878,Eastern Euro Region,106799.100815,823160605.677,#0087DC,Conservative
+127,South Cambridgeshire,Westminster Constituency,E14000934,Eastern Euro Region,106798.598448,823152861.642,#0087DC,Conservative
+128,Bedford,Westminster Constituency,E14000552,Eastern Euro Region,106799.129198,823161043.192,#DC241F,Labour
+129,Enfield North,Westminster Constituency,E14000691,London Euro Region,106799.120683,823160911.938,#DC241F,Labour
+130,Tottenham,Westminster Constituency,E14001002,London Euro Region,106799.353418,823164499.57,#DC241F,Labour
+131,Brent Central,Westminster Constituency,E14000591,London Euro Region,106799.10933,823160736.931,#DC241F,Labour
+132,Chelsea and Fulham,Westminster Constituency,E14000629,London Euro Region,106798.88511,823157280.555,#0087DC,Conservative
+133,Cities of London and Westminster,Westminster Constituency,E14000639,London Euro Region,106799.120683,823160911.938,#0087DC,Conservative
+134,Vauxhall,Westminster Constituency,E14001008,London Euro Region,106798.86808,823157018.046,#DC241F,Labour
+135,Wimbledon,Westminster Constituency,E14001040,London Euro Region,106799.293815,823163580.786,#0087DC,Conservative
+136,Croydon Central,Westminster Constituency,E14000654,London Euro Region,106798.98161,823158768.109,#DC241F,Labour
+137,Horsham,Westminster Constituency,E14000753,South East Euro Region,106799.333551,823164193.309,#0087DC,Conservative
+138,Hove,Westminster Constituency,E14000755,South East Euro Region,106798.589933,823152730.388,#DC241F,Labour
+139,Middlesbrough South and East Cleveland,Westminster Constituency,E14000820,North East Euro Region,106799.094582,823160509.592,#0087DC,Conservative
+140,Scarborough and Whitby,Westminster Constituency,E14000913,Yorkshire and the Humber Euro Region,106799.097422,823160553.343,#0087DC,Conservative
+141,York Outer,Westminster Constituency,E14001062,Yorkshire and the Humber Euro Region,106799.122965,823160947.108,#0087DC,Conservative
+142,Leeds Central,Westminster Constituency,E14000777,Yorkshire and the Humber Euro Region,106799.290423,823163528.452,#DC241F,Labour
+143,"Normanton, Pontefract and Castleford",Westminster Constituency,E14000836,Yorkshire and the Humber Euro Region,106799.17973,823161822.139,#DC241F,Labour
+144,Rotherham,Westminster Constituency,E14000904,Yorkshire and the Humber Euro Region,106798.805083,823156046.929,#DC241F,Labour
+145,Brigg and Goole,Westminster Constituency,E14000596,Yorkshire and the Humber Euro Region,106799.134318,823161122.114,#0087DC,Conservative
+146,Bassetlaw,Westminster Constituency,E14000546,East Midlands Euro Region,106798.807921,823156090.681,#0087DC,Conservative
+147,Sherwood,Westminster Constituency,E14000924,East Midlands Euro Region,106799.262038,823163090.935,#0087DC,Conservative
+148,Nottingham North,Westminster Constituency,E14000866,East Midlands Euro Region,106798.816436,823156221.935,#DC241F,Labour
+149,Broxtowe,Westminster Constituency,E14000607,East Midlands Euro Region,106799.30745,823163790.961,#0087DC,Conservative
+150,Erewash,Westminster Constituency,E14000695,East Midlands Euro Region,106798.637627,823153465.585,#0087DC,Conservative
+151,Harborough,Westminster Constituency,E14000728,East Midlands Euro Region,106799.290421,823163528.452,#0087DC,Conservative
+152,Northampton South,Westminster Constituency,E14000862,East Midlands Euro Region,106799.11445,823160815.852,#0087DC,Conservative
+153,South Northamptonshire,Westminster Constituency,E14000942,East Midlands Euro Region,106798.853333,823156790.707,#0087DC,Conservative
+154,North West Cambridgeshire,Westminster Constituency,E14000855,Eastern Euro Region,106799.060524,823159984.572,#0087DC,Conservative
+155,Hitchin and Harpenden,Westminster Constituency,E14000749,Eastern Euro Region,106798.714259,823154646.878,#0087DC,Conservative
+156,Mid Bedfordshire,Westminster Constituency,E14000813,Eastern Euro Region,106799.040656,823159678.311,#0087DC,Conservative
+157,"Enfield, Southgate",Westminster Constituency,E14000692,London Euro Region,106799.086069,823160378.337,#DC241F,Labour
+158,Hornsey and Wood Green,Westminster Constituency,E14000752,London Euro Region,106799.327318,823164097.223,#DC241F,Labour
+159,Holborn and St. Pancras,Westminster Constituency,E14000750,London Euro Region,106799.049174,823159809.566,#DC241F,Labour
+160,Putney,Westminster Constituency,E14000887,London Euro Region,106799.057685,823159940.821,#DC241F,Labour
+161,Kensington,Westminster Constituency,E14000768,London Euro Region,106799.094583,823160509.592,#0087DC,Conservative
+162,Streatham,Westminster Constituency,E14000978,London Euro Region,106799.0662,823160072.076,#DC241F,Labour
+163,Mitcham and Morden,Westminster Constituency,E14000823,London Euro Region,106799.103097,823160640.846,#DC241F,Labour
+164,Croydon South,Westminster Constituency,E14000656,London Euro Region,106799.122965,823160947.108,#0087DC,Conservative
+165,East Worthing and Shoreham,Westminster Constituency,E14000682,South East Euro Region,106799.105935,823160684.598,#0087DC,Conservative
+166,Hartlepool,Westminster Constituency,E14000733,North East Euro Region,106799.307011,823163784.193,#DC241F,Labour
+167,Redcar,Westminster Constituency,E14000891,North East Euro Region,106798.617321,823153152.556,#0087DC,Conservative
+168,Thirsk and Malton,Westminster Constituency,E14000993,Yorkshire and the Humber Euro Region,106799.278629,823163346.677,#0087DC,Conservative
+169,York Central,Westminster Constituency,E14001061,Yorkshire and the Humber Euro Region,106799.091305,823160459.072,#DC241F,Labour
+170,Morley and Outwood,Westminster Constituency,E14000826,Yorkshire and the Humber Euro Region,106799.289982,823163521.683,#0087DC,Conservative
+171,Hemsworth,Westminster Constituency,E14000740,Yorkshire and the Humber Euro Region,106799.102658,823160634.078,#DC241F,Labour
+172,"Sheffield, Brightside and Hillsborough",Westminster Constituency,E14000921,Yorkshire and the Humber Euro Region,106799.094143,823160502.823,#DC241F,Labour
+173,Don Valley,Westminster Constituency,E14000667,Yorkshire and the Humber Euro Region,106799.111173,823160765.333,#0087DC,Conservative
+174,Chesterfield,Westminster Constituency,E14000632,East Midlands Euro Region,106799.08279,823160327.817,#DC241F,Labour
+175,Mansfield,Westminster Constituency,E14000810,East Midlands Euro Region,106799.102658,823160634.078,#0087DC,Conservative
+176,Ashfield,Westminster Constituency,E14000535,East Midlands Euro Region,106799.091305,823160459.071,#0087DC,Conservative
+177,Charnwood,Westminster Constituency,E14000625,East Midlands Euro Region,106799.14807,823161334.103,#0087DC,Conservative
+178,Leicester East,Westminster Constituency,E14000782,East Midlands Euro Region,106798.989129,823158884.014,#DC241F,Labour
+179,Leicester South,Westminster Constituency,E14000783,East Midlands Euro Region,106799.156585,823161465.358,#DC241F,Labour
+180,Daventry,Westminster Constituency,E14000660,East Midlands Euro Region,106798.580423,823152583.786,#0087DC,Conservative
+181,Huntingdon,Westminster Constituency,E14000757,Eastern Euro Region,106799.08279,823160327.817,#0087DC,Conservative
+182,North East Bedfordshire,Westminster Constituency,E14000841,Eastern Euro Region,106798.580423,823152583.785,#0087DC,Conservative
+183,Welwyn Hatfield,Westminster Constituency,E14001027,Eastern Euro Region,106799.111173,823160765.332,#0087DC,Conservative
+184,Epping Forest,Westminster Constituency,E14000693,Eastern Euro Region,106799.102658,823160634.078,#0087DC,Conservative
+185,Chipping Barnet,Westminster Constituency,E14000636,London Euro Region,106799.335394,823164221.709,#0087DC,Conservative
+186,Finchley and Golders Green,Westminster Constituency,E14000703,London Euro Region,106799.091305,823160459.071,#0087DC,Conservative
+187,Westminster North,Westminster Constituency,E14001036,London Euro Region,106798.867085,823157002.696,#DC241F,Labour
+188,Hammersmith,Westminster Constituency,E14000726,London Euro Region,106799.102658,823160634.078,#DC241F,Labour
+189,Battersea,Westminster Constituency,E14000549,London Euro Region,106798.850055,823156740.187,#DC241F,Labour
+190,Tooting,Westminster Constituency,E14000998,London Euro Region,106799.275791,823163302.925,#DC241F,Labour
+191,Carshalton and Wallington,Westminster Constituency,E14000621,London Euro Region,106798.963585,823158490.25,#0087DC,Conservative
+192,Arundel and South Downs,Westminster Constituency,E14000534,South East Euro Region,106799.315526,823163915.448,#0087DC,Conservative
+193,Worthing West,Westminster Constituency,E14001055,South East Euro Region,106798.571908,823152452.531,#0087DC,Conservative
+194,South Shields,Westminster Constituency,E14000944,North East Euro Region,106798.764626,823155423.256,#DC241F,Labour
+195,Sunderland Central,Westminster Constituency,E14000982,North East Euro Region,106798.7107,823154591.982,#DC241F,Labour
+196,Easington,Westminster Constituency,E14000677,North East Euro Region,106798.707862,823154548.23,#DC241F,Labour
+197,Richmond (Yorks),Westminster Constituency,E14000895,Yorkshire and the Humber Euro Region,106798.710701,823154591.982,#0087DC,Conservative
+198,Selby and Ainsty,Westminster Constituency,E14000917,Yorkshire and the Humber Euro Region,106798.736244,823154985.744,#0087DC,Conservative
+199,Leeds East,Westminster Constituency,E14000778,Yorkshire and the Humber Euro Region,106798.903701,823157567.069,#DC241F,Labour
+200,Batley and Spen,Westminster Constituency,E14000548,Yorkshire and the Humber Euro Region,106798.793009,823155860.769,#DC241F,Labour
+201,Barnsley Central,Westminster Constituency,E14000541,Yorkshire and the Humber Euro Region,106798.418364,823150085.6,#DC241F,Labour
+202,Penistone and Stocksbridge,Westminster Constituency,E14000876,Yorkshire and the Humber Euro Region,106798.747597,823155160.748,#0087DC,Conservative
+203,Doncaster Central,Westminster Constituency,E14000668,Yorkshire and the Humber Euro Region,106798.421202,823150129.351,#DC241F,Labour
+204,North East Derbyshire,Westminster Constituency,E14000843,East Midlands Euro Region,106798.875317,823157129.555,#0087DC,Conservative
+205,Bolsover,Westminster Constituency,E14000577,East Midlands Euro Region,106798.429717,823150260.605,#0087DC,Conservative
+206,Amber Valley,Westminster Constituency,E14000533,East Midlands Euro Region,106798.920729,823157829.576,#0087DC,Conservative
+207,Derby South,Westminster Constituency,E14000663,East Midlands Euro Region,106798.250909,823147504.275,#DC241F,Labour
+208,Leicester West,Westminster Constituency,E14000784,East Midlands Euro Region,106798.903699,823157567.069,#DC241F,Labour
+209,South Leicestershire,Westminster Constituency,E14000940,East Midlands Euro Region,106798.72773,823154854.489,#0087DC,Conservative
+210,Rugby,Westminster Constituency,E14000905,West Midlands Euro Region,106798.466613,823150829.372,#0087DC,Conservative
+211,Luton South,Westminster Constituency,E14000801,Eastern Euro Region,106798.673803,823154023.214,#DC241F,Labour
+212,Luton North,Westminster Constituency,E14000800,Eastern Euro Region,106798.32754,823148685.559,#DC241F,Labour
+213,Broxbourne,Westminster Constituency,E14000606,Eastern Euro Region,106798.653936,823153716.956,#0087DC,Conservative
+214,Hertsmere,Westminster Constituency,E14000745,Eastern Euro Region,106798.699348,823154416.976,#0087DC,Conservative
+215,Hendon,Westminster Constituency,E14000741,London Euro Region,106798.940596,823158135.835,#0087DC,Conservative
+216,Brent North,Westminster Constituency,E14000592,London Euro Region,106798.662454,823153848.21,#DC241F,Labour
+217,Hampstead and Kilburn,Westminster Constituency,E14000727,London Euro Region,106798.670965,823153979.464,#DC241F,Labour
+218,Ealing Central and Acton,Westminster Constituency,E14000674,London Euro Region,106798.707862,823154548.23,#DC241F,Labour
+219,Brentford and Isleworth,Westminster Constituency,E14000593,London Euro Region,106798.67948,823154110.718,#DC241F,Labour
+220,Richmond Park,Westminster Constituency,E14000896,London Euro Region,106798.716377,823154679.484,#FDBB30,Liberal Democrat
+221,Sutton and Cheam,Westminster Constituency,E14000984,London Euro Region,106798.736244,823154985.743,#0087DC,Conservative
+222,Bognor Regis and Littlehampton,Westminster Constituency,E14000576,South East Euro Region,106798.719215,823154723.236,#0087DC,Conservative
+223,Tynemouth,Westminster Constituency,E14001006,North East Euro Region,106798.911776,823157691.554,#DC241F,Labour
+224,Jarrow,Westminster Constituency,E14000765,North East Euro Region,106798.426441,823150210.085,#DC241F,Labour
+225,Houghton and Sunderland South,Westminster Constituency,E14000754,North East Euro Region,106798.92029,823157822.808,#DC241F,Labour
+226,Middlesbrough,Westminster Constituency,E14000819,North East Euro Region,106798.230604,823147191.248,#DC241F,Labour
+227,Skipton and Ripon,Westminster Constituency,E14000928,Yorkshire and the Humber Euro Region,106798.891908,823157385.295,#0087DC,Conservative
+228,Leeds West,Westminster Constituency,E14000781,Yorkshire and the Humber Euro Region,106798.704586,823154497.711,#DC241F,Labour
+229,Elmet and Rothwell,Westminster Constituency,E14000689,Yorkshire and the Humber Euro Region,106798.903261,823157560.3,#0087DC,Conservative
+230,Bradford South,Westminster Constituency,E14000588,Yorkshire and the Humber Euro Region,106798.715939,823154672.716,#DC241F,Labour
+231,Barnsley East,Westminster Constituency,E14000542,Yorkshire and the Humber Euro Region,106798.707424,823154541.462,#DC241F,Labour
+232,Dewsbury,Westminster Constituency,E14000666,Yorkshire and the Humber Euro Region,106798.724453,823154803.97,#0087DC,Conservative
+233,Rother Valley,Westminster Constituency,E14000903,Yorkshire and the Humber Euro Region,106798.696071,823154366.456,#0087DC,Conservative
+234,High Peak,Westminster Constituency,E14000748,East Midlands Euro Region,106798.715938,823154672.715,#0087DC,Conservative
+235,Mid Derbyshire,Westminster Constituency,E14000814,East Midlands Euro Region,106798.704586,823154497.71,#0087DC,Conservative
+236,Derby North,Westminster Constituency,E14000662,East Midlands Euro Region,106798.76135,823155372.736,#0087DC,Conservative
+237,North West Leicestershire,Westminster Constituency,E14000858,East Midlands Euro Region,106798.602411,823152922.664,#0087DC,Conservative
+238,Bosworth,Westminster Constituency,E14000583,East Midlands Euro Region,106798.769865,823155503.989,#0087DC,Conservative
+239,Nuneaton,Westminster Constituency,E14000868,West Midlands Euro Region,106798.193707,823146622.481,#0087DC,Conservative
+240,Coventry North East,Westminster Constituency,E14000649,West Midlands Euro Region,106798.696071,823154366.456,#DC241F,Labour
+241,South West Bedfordshire,Westminster Constituency,E14000949,Eastern Euro Region,106798.193707,823146622.481,#0087DC,Conservative
+242,Hemel Hempstead,Westminster Constituency,E14000739,Eastern Euro Region,106798.724453,823154803.969,#0087DC,Conservative
+243,St. Albans,Westminster Constituency,E14000960,Eastern Euro Region,106798.715938,823154672.715,#FDBB30,Liberal Democrat
+244,Watford,Westminster Constituency,E14001021,Eastern Euro Region,106798.948673,823158260.32,#0087DC,Conservative
+245,Harrow East,Westminster Constituency,E14000731,London Euro Region,106798.704586,823154497.71,#0087DC,Conservative
+246,Harrow West,Westminster Constituency,E14000732,London Euro Region,106798.480367,823151041.36,#DC241F,Labour
+247,Ealing North,Westminster Constituency,E14000675,London Euro Region,106798.715939,823154672.716,#DC241F,Labour
+248,"Ealing, Southall",Westminster Constituency,E14000676,London Euro Region,106798.463337,823150778.853,#DC241F,Labour
+249,Twickenham,Westminster Constituency,E14001005,London Euro Region,106798.88907,823157341.543,#FDBB30,Liberal Democrat
+250,Kingston and Surbiton,Westminster Constituency,E14000770,London Euro Region,106798.576866,823152528.903,#FDBB30,Liberal Democrat
+251,Chichester,Westminster Constituency,E14000633,South East Euro Region,106798.928805,823157954.062,#0087DC,Conservative
+252,Havant,Westminster Constituency,E14000736,South East Euro Region,106798.185192,823146491.228,#0087DC,Conservative
+253,Blyth Valley,Westminster Constituency,E14000575,North East Euro Region,106799.211139,823162306.193,#0087DC,Conservative
+254,Newcastle upon Tyne East,Westminster Constituency,E14000832,North East Euro Region,106799.248035,823162874.965,#DC241F,Labour
+255,Washington and Sunderland West,Westminster Constituency,E14001020,North East Euro Region,106799.194109,823162043.683,#DC241F,Labour
+256,City of Durham,Westminster Constituency,E14000641,North East Euro Region,106799.191271,823161999.932,#DC241F,Labour
+257,Stockton North,Westminster Constituency,E14000970,North East Euro Region,106799.194111,823162043.683,#DC241F,Labour
+258,Harrogate and Knaresborough,Westminster Constituency,E14000730,Yorkshire and the Humber Euro Region,106799.219653,823162437.449,#0087DC,Conservative
+259,Leeds North West,Westminster Constituency,E14000780,Yorkshire and the Humber Euro Region,106799.387109,823165018.797,#DC241F,Labour
+260,Leeds North East,Westminster Constituency,E14000779,Yorkshire and the Humber Euro Region,106799.276417,823163312.482,#DC241F,Labour
+261,Wakefield,Westminster Constituency,E14001009,Yorkshire and the Humber Euro Region,106798.901776,823157537.261,#0087DC,Conservative
+262,Huddersfield,Westminster Constituency,E14000756,Yorkshire and the Humber Euro Region,106799.231006,823162612.455,#DC241F,Labour
+263,Sheffield South East,Westminster Constituency,E14000920,Yorkshire and the Humber Euro Region,106798.904614,823157581.013,#DC241F,Labour
+264,Staffordshire Moorlands,Westminster Constituency,E14000966,West Midlands Euro Region,106799.358725,823164581.28,#0087DC,Conservative
+265,Derbyshire Dales,Westminster Constituency,E14000664,East Midlands Euro Region,106798.913128,823157712.268,#0087DC,Conservative
+266,Burton,Westminster Constituency,E14000610,East Midlands Euro Region,106799.404136,823165281.307,#0087DC,Conservative
+267,South Derbyshire,Westminster Constituency,E14000935,East Midlands Euro Region,106798.734323,823154955.913,#0087DC,Conservative
+268,Sutton Coldfield,Westminster Constituency,E14000985,West Midlands Euro Region,106799.387107,823165018.797,#0087DC,Conservative
+269,North Warwickshire,Westminster Constituency,E14000854,West Midlands Euro Region,106799.211139,823162306.193,#0087DC,Conservative
+270,"Birmingham, Yardley",Westminster Constituency,E14000568,West Midlands Euro Region,106798.950025,823158281.04,#DC241F,Labour
+271,Coventry South,Westminster Constituency,E14000651,West Midlands Euro Region,106799.157213,823161474.911,#DC241F,Labour
+272,Milton Keynes North,Westminster Constituency,E14000821,South East Euro Region,106798.810953,823156137.208,#0087DC,Conservative
+273,Milton Keynes South,Westminster Constituency,E14000822,South East Euro Region,106799.137346,823161168.65,#0087DC,Conservative
+274,Oxford East,Westminster Constituency,E14000873,South East Euro Region,106799.182758,823161868.677,#DC241F,Labour
+275,Slough,Westminster Constituency,E14000930,South East Euro Region,106799.424004,823165587.569,#DC241F,Labour
+276,"Ruislip, Northwood and Pinner",Westminster Constituency,E14000906,London Euro Region,106799.145863,823161299.905,#0087DC,Conservative
+277,Uxbridge and South Ruislip,Westminster Constituency,E14001007,London Euro Region,106799.154375,823161431.16,#0087DC,Conservative
+278,Hayes and Harlington,Westminster Constituency,E14000737,London Euro Region,106799.191271,823161999.932,#DC241F,Labour
+279,Feltham and Heston,Westminster Constituency,E14000701,London Euro Region,106799.162889,823161562.416,#DC241F,Labour
+280,Sevenoaks,Westminster Constituency,E14000918,South East Euro Region,106799.199786,823162131.186,#0087DC,Conservative
+281,Tonbridge and Malling,Westminster Constituency,E14000997,South East Euro Region,106799.219653,823162437.449,#0087DC,Conservative
+282,Portsmouth North,Westminster Constituency,E14000883,South East Euro Region,106799.202624,823162174.939,#0087DC,Conservative
+283,Portsmouth South,Westminster Constituency,E14000884,South East Euro Region,106799.182757,823161868.677,#DC241F,Labour
+284,Wansbeck,Westminster Constituency,E14001014,North East Euro Region,106799.332907,823164183.4,#DC241F,Labour
+285,Gateshead,Westminster Constituency,E14000709,North East Euro Region,106798.84757,823156701.873,#DC241F,Labour
+286,North Durham,Westminster Constituency,E14000840,North East Euro Region,106799.341422,823164314.655,#DC241F,Labour
+287,Sedgefield,Westminster Constituency,E14000915,North East Euro Region,106798.651732,823153683.012,#0087DC,Conservative
+288,Stockton South,Westminster Constituency,E14000971,North East Euro Region,106799.31304,823163877.139,#0087DC,Conservative
+289,Pudsey,Westminster Constituency,E14000886,Yorkshire and the Humber Euro Region,106799.125716,823160989.532,#0087DC,Conservative
+290,Shipley,Westminster Constituency,E14000925,Yorkshire and the Humber Euro Region,106799.324393,823164052.145,#0087DC,Conservative
+291,Bradford East,Westminster Constituency,E14000587,Yorkshire and the Humber Euro Region,106799.137069,823161164.539,#DC241F,Labour
+292,Halifax,Westminster Constituency,E14000723,Yorkshire and the Humber Euro Region,106799.128554,823161033.283,#DC241F,Labour
+293,"Sheffield, Heeley",Westminster Constituency,E14000923,Yorkshire and the Humber Euro Region,106799.145584,823161295.793,#DC241F,Labour
+294,Stoke-on-Trent South,Westminster Constituency,E14000974,West Midlands Euro Region,106799.117201,823160858.277,#0087DC,Conservative
+295,Stone,Westminster Constituency,E14000975,West Midlands Euro Region,106799.137069,823161164.538,#0087DC,Conservative
+296,Stafford,Westminster Constituency,E14000965,West Midlands Euro Region,106799.125716,823160989.531,#0087DC,Conservative
+297,Lichfield,Westminster Constituency,E14000791,West Midlands Euro Region,106799.182481,823161864.564,#0087DC,Conservative
+298,Tamworth,Westminster Constituency,E14000986,West Midlands Euro Region,106799.02354,823159414.473,#0087DC,Conservative
+299,"Birmingham, Erdington",Westminster Constituency,E14000561,West Midlands Euro Region,106799.190995,823161995.818,#DC241F,Labour
+300,"Birmingham, Hodge Hill",Westminster Constituency,E14000563,West Midlands Euro Region,106798.614834,823153114.241,#DC241F,Labour
+301,"Birmingham, Hall Green",Westminster Constituency,E14000562,West Midlands Euro Region,106799.117201,823160858.277,#DC241F,Labour
+302,Coventry North West,Westminster Constituency,E14000650,West Midlands Euro Region,106798.614834,823153114.24,#DC241F,Labour
+303,Banbury,Westminster Constituency,E14000539,South East Euro Region,106799.145584,823161295.793,#0087DC,Conservative
+304,Oxford West and Abingdon,Westminster Constituency,E14000874,South East Euro Region,106799.137069,823161164.538,#FDBB30,Liberal Democrat
+305,South West Hertfordshire,Westminster Constituency,E14000951,South East Euro Region,106799.369804,823164752.171,#0087DC,Conservative
+306,Beaconsfield,Westminster Constituency,E14000550,South East Euro Region,106799.125716,823160989.531,#0087DC,Conservative
+307,Windsor,Westminster Constituency,E14001042,South East Euro Region,106798.901496,823157533.154,#0087DC,Conservative
+308,Spelthorne,Westminster Constituency,E14000959,South East Euro Region,106799.137069,823161164.538,#0087DC,Conservative
+309,Epsom and Ewell,Westminster Constituency,E14000694,South East Euro Region,106798.884466,823157270.645,#0087DC,Conservative
+310,Esher and Walton,Westminster Constituency,E14000697,South East Euro Region,106799.310201,823163833.387,#0087DC,Conservative
+311,Reigate,Westminster Constituency,E14000893,South East Euro Region,106798.997996,823159020.709,#0087DC,Conservative
+312,East Surrey,Westminster Constituency,E14000681,South East Euro Region,106799.349937,823164445.91,#0087DC,Conservative
+313,Meon Valley,Westminster Constituency,E14000811,South East Euro Region,106798.60632,823152982.986,#0087DC,Conservative
+314,Gosport,Westminster Constituency,E14000713,South East Euro Region,106799.301687,823163702.132,#0087DC,Conservative
+315,Berwick-upon-Tweed,Westminster Constituency,E14000554,North East Euro Region,106799.109534,823160740.072,#0087DC,Conservative
+316,North Tyneside,Westminster Constituency,E14000853,North East Euro Region,106799.146431,823161308.843,#DC241F,Labour
+317,Newcastle upon Tyne Central,Westminster Constituency,E14000831,North East Euro Region,106799.092505,823160477.563,#DC241F,Labour
+318,North West Durham,Westminster Constituency,E14000856,North East Euro Region,106799.089666,823160433.812,#0087DC,Conservative
+319,Bishop Auckland,Westminster Constituency,E14000569,North East Euro Region,106799.092506,823160477.563,#0087DC,Conservative
+320,Darlington,Westminster Constituency,E14000658,North East Euro Region,106799.118049,823160871.328,#0087DC,Conservative
+321,Keighley,Westminster Constituency,E14000766,Yorkshire and the Humber Euro Region,106799.285507,823163452.671,#0087DC,Conservative
+322,Calder Valley,Westminster Constituency,E14000614,Yorkshire and the Humber Euro Region,106799.174814,823161746.359,#0087DC,Conservative
+323,Bradford West,Westminster Constituency,E14000589,Yorkshire and the Humber Euro Region,106798.800167,823155971.149,#DC241F,Labour
+324,Sheffield Central,Westminster Constituency,E14000919,Yorkshire and the Humber Euro Region,106799.129402,823161046.334,#DC241F,Labour
+325,Stoke-on-Trent Central,Westminster Constituency,E14000972,West Midlands Euro Region,106798.803005,823156014.901,#0087DC,Conservative
+326,The Wrekin,Westminster Constituency,E14000992,West Midlands Euro Region,106799.257123,823163015.155,#0087DC,Conservative
+327,Cannock Chase,Westminster Constituency,E14000618,West Midlands Euro Region,106798.81152,823156146.156,#0087DC,Conservative
+328,Aldridge-Brownhills,Westminster Constituency,E14000531,West Midlands Euro Region,106799.302534,823163715.18,#0087DC,Conservative
+329,Walsall South,Westminster Constituency,E14001012,West Midlands Euro Region,106798.632712,823153389.806,#DC241F,Labour
+330,West Bromwich East,Westminster Constituency,E14001029,West Midlands Euro Region,106799.285505,823163452.671,#0087DC,Conservative
+331,Warley,Westminster Constituency,E14001016,West Midlands Euro Region,106799.109534,823160740.072,#DC241F,Labour
+332,"Birmingham, Perry Barr",Westminster Constituency,E14000566,West Midlands Euro Region,106798.848417,823156714.927,#DC241F,Labour
+333,Bromsgrove,Westminster Constituency,E14000605,West Midlands Euro Region,106799.055608,823159908.792,#0087DC,Conservative
+334,Meriden,Westminster Constituency,E14000812,West Midlands Euro Region,106798.709343,823154571.099,#0087DC,Conservative
+335,Kenilworth and Southam,Westminster Constituency,E14000767,West Midlands Euro Region,106799.03574,823159602.531,#0087DC,Conservative
+336,Witney,Westminster Constituency,E14001046,South East Euro Region,106799.081153,823160302.557,#0087DC,Conservative
+337,Chesham and Amersham,Westminster Constituency,E14000631,South East Euro Region,106799.322402,823164021.442,#0087DC,Conservative
+338,Maidenhead,Westminster Constituency,E14000803,South East Euro Region,106799.044258,823159733.786,#0087DC,Conservative
+339,Bracknell,Westminster Constituency,E14000586,South East Euro Region,106799.052769,823159865.041,#0087DC,Conservative
+340,Runnymede and Weybridge,Westminster Constituency,E14000907,South East Euro Region,106799.089667,823160433.812,#0087DC,Conservative
+341,Surrey Heath,Westminster Constituency,E14000983,South East Euro Region,106799.061284,823159996.296,#0087DC,Conservative
+342,Woking,Westminster Constituency,E14001047,South East Euro Region,106799.098181,823160565.066,#0087DC,Conservative
+343,Mole Valley,Westminster Constituency,E14000824,South East Euro Region,106799.118049,823160871.327,#0087DC,Conservative
+344,Winchester,Westminster Constituency,E14001041,South East Euro Region,106799.101019,823160608.818,#0087DC,Conservative
+345,Fareham,Westminster Constituency,E14000699,South East Euro Region,106799.081152,823160302.557,#0087DC,Conservative
+346,Aberdeen South,Westminster Constituency,S14000002,Scotland Euro Region,106799.089752,823160435.139,#FFFF00,Scottish National Party
+347,Angus,Westminster Constituency,S14000004,Scotland Euro Region,106799.25437,823162972.729,#FFFF00,Scottish National Party
+348,Edinburgh East,Westminster Constituency,S14000022,Scotland Euro Region,106799.135164,823161135.164,#FFFF00,Scottish National Party
+349,Newcastle upon Tyne North,Westminster Constituency,E14000833,North East Euro Region,106799.265723,823163147.736,#DC241F,Labour
+350,Blaydon,Westminster Constituency,E14000574,North East Euro Region,106798.780385,823155666.218,#DC241F,Labour
+351,Hexham,Westminster Constituency,E14000746,North East Euro Region,106799.274238,823163278.991,#0087DC,Conservative
+352,Penrith and The Border,Westminster Constituency,E14000877,North West Euro Region,106798.584548,823152647.361,#0087DC,Conservative
+353,Morecambe and Lunesdale,Westminster Constituency,E14000825,North West Euro Region,106799.245855,823162841.475,#0087DC,Conservative
+354,Pendle,Westminster Constituency,E14000875,North West Euro Region,106799.058532,823159953.872,#0087DC,Conservative
+355,Burnley,Westminster Constituency,E14000609,North West Euro Region,106799.257208,823163016.481,#0087DC,Conservative
+356,Colne Valley,Westminster Constituency,E14000645,Yorkshire and the Humber Euro Region,106799.069885,823160128.878,#0087DC,Conservative
+357,"Sheffield, Hallam",Westminster Constituency,E14000922,Yorkshire and the Humber Euro Region,106799.06137,823159997.623,#DC241F,Labour
+358,Stoke-on-Trent North,Westminster Constituency,E14000973,West Midlands Euro Region,106799.078399,823160260.133,#0087DC,Conservative
+359,Newcastle-under-Lyme,Westminster Constituency,E14000834,West Midlands Euro Region,106799.050017,823159822.617,#0087DC,Conservative
+360,Telford,Westminster Constituency,E14000989,West Midlands Euro Region,106799.069885,823160128.877,#0087DC,Conservative
+361,Ludlow,Westminster Constituency,E14000799,West Midlands Euro Region,106799.058532,823159953.871,#0087DC,Conservative
+362,Walsall North,Westminster Constituency,E14001011,West Midlands Euro Region,106799.115297,823160828.903,#0087DC,Conservative
+363,Wolverhampton South East,Westminster Constituency,E14001050,West Midlands Euro Region,106798.956356,823158378.815,#DC241F,Labour
+364,Dudley North,Westminster Constituency,E14000671,West Midlands Euro Region,106799.123811,823160960.157,#0087DC,Conservative
+365,West Bromwich West,Westminster Constituency,E14001030,West Midlands Euro Region,106798.54765,823152078.59,#0087DC,Conservative
+366,"Birmingham, Ladywood",Westminster Constituency,E14000564,West Midlands Euro Region,106799.050017,823159822.617,#DC241F,Labour
+367,Solihull,Westminster Constituency,E14000931,West Midlands Euro Region,106798.54765,823152078.59,#0087DC,Conservative
+368,Warwick and Leamington,Westminster Constituency,E14001019,West Midlands Euro Region,106799.078399,823160260.132,#DC241F,Labour
+369,Stratford-on-Avon,Westminster Constituency,E14000977,West Midlands Euro Region,106799.069885,823160128.877,#0087DC,Conservative
+370,Wantage,Westminster Constituency,E14001015,South East Euro Region,106799.30262,823163716.506,#0087DC,Conservative
+371,Buckingham,Westminster Constituency,E14000608,South East Euro Region,106799.058532,823159953.871,#0087DC,Conservative
+372,Aylesbury,Westminster Constituency,E14000538,South East Euro Region,106798.834312,823156497.498,#0087DC,Conservative
+373,Wycombe,Westminster Constituency,E14001056,South East Euro Region,106799.069885,823160128.878,#0087DC,Conservative
+374,Reading East,Westminster Constituency,E14000889,South East Euro Region,106798.817282,823156234.989,#DC241F,Labour
+375,Aldershot,Westminster Constituency,E14000530,South East Euro Region,106799.243017,823162797.723,#0087DC,Conservative
+376,South West Surrey,Westminster Constituency,E14000953,South East Euro Region,106798.930811,823157985.051,#0087DC,Conservative
+377,Guildford,Westminster Constituency,E14000719,South East Euro Region,106799.282753,823163410.245,#0087DC,Conservative
+378,Eastleigh,Westminster Constituency,E14000685,South East Euro Region,106798.539135,823151947.336,#0087DC,Conservative
+379,Isle of Wight,Westminster Constituency,E14000762,South East Euro Region,106799.030151,823159516.356,#0087DC,Conservative
+380,Orkney and Shetland,Westminster Constituency,S14000051,Scotland Euro Region,106798.781703,823155686.523,#FDBB30,Liberal Democrat
+381,Aberdeen North,Westminster Constituency,S14000001,Scotland Euro Region,106798.622761,823153236.435,#FFFF00,Scottish National Party
+382,Gordon,Westminster Constituency,S14000037,Scotland Euro Region,106799.255688,823162993.034,#FFFF00,Scottish National Party
+383,West Aberdeenshire and Kincardine,Westminster Constituency,S14000058,Scotland Euro Region,106799.07688,823160236.686,#0087DC,Conservative
+384,Glenrothes,Westminster Constituency,S14000036,Scotland Euro Region,106799.292585,823163561.805,#FFFF00,Scottish National Party
+385,Edinburgh North and Leith,Westminster Constituency,S14000023,Scotland Euro Region,106799.088232,823160411.692,#FFFF00,Scottish National Party
+386,Edinburgh South,Westminster Constituency,S14000024,Scotland Euro Region,106799.071203,823160149.183,#DC241F,Labour
+387,Midlothian,Westminster Constituency,S14000045,Scotland Euro Region,106799.088232,823160411.692,#FFFF00,Scottish National Party
+388,"Berwickshire, Roxburgh and Selkirk",Westminster Constituency,S14000008,Scotland Euro Region,106799.125129,823160980.463,#0087DC,Conservative
+389,Carlisle,Westminster Constituency,E14000620,North West Euro Region,106799.071203,823160149.183,#0087DC,Conservative
+390,Copeland,Westminster Constituency,E14000647,North West Euro Region,106799.068364,823160105.432,#0087DC,Conservative
+391,Westmorland and Lonsdale,Westminster Constituency,E14001037,North West Euro Region,106799.071204,823160149.183,#FDBB30,Liberal Democrat
+392,Ribble Valley,Westminster Constituency,E14000894,North West Euro Region,106799.096747,823160542.948,#0087DC,Conservative
+393,Hyndburn,Westminster Constituency,E14000758,North West Euro Region,106799.264205,823163124.29,#0087DC,Conservative
+394,Rochdale,Westminster Constituency,E14000897,North West Euro Region,106799.153511,823161417.979,#DC241F,Labour
+395,Oldham East and Saddleworth,Westminster Constituency,E14000870,North West Euro Region,106798.778865,823155642.771,#DC241F,Labour
+396,Ashton-under-Lyne,Westminster Constituency,E14000537,North West Euro Region,106799.1081,823160717.954,#DC241F,Labour
+397,Stalybridge and Hyde,Westminster Constituency,E14000967,North West Euro Region,106798.781703,823155686.523,#DC241F,Labour
+398,North Shropshire,Westminster Constituency,E14000849,West Midlands Euro Region,106799.23582,823162686.774,#0087DC,Conservative
+399,Shrewsbury and Atcham,Westminster Constituency,E14000926,West Midlands Euro Region,106798.790218,823155817.777,#0087DC,Conservative
+400,Salford and Eccles,Westminster Constituency,E14000911,North West Euro Region,106799.281232,823163386.799,#DC241F,Labour
+401,"Manchester, Gorton",Westminster Constituency,E14000808,North West Euro Region,106798.611409,823153061.429,#DC241F,Labour
+402,Stockport,Westminster Constituency,E14000969,North West Euro Region,106799.264203,823163124.29,#DC241F,Labour
+403,Cheadle,Westminster Constituency,E14000627,North West Euro Region,106799.088232,823160411.692,#0087DC,Conservative
+404,Wolverhampton North East,Westminster Constituency,E14001049,West Midlands Euro Region,106798.827114,823156386.548,#0087DC,Conservative
+405,"Birmingham, Edgbaston",Westminster Constituency,E14000560,West Midlands Euro Region,106799.034305,823159580.412,#DC241F,Labour
+406,"Birmingham, Selly Oak",Westminster Constituency,E14000567,West Midlands Euro Region,106798.68804,823154242.721,#DC241F,Labour
+407,Redditch,Westminster Constituency,E14000892,West Midlands Euro Region,106799.014438,823159274.152,#0087DC,Conservative
+408,Mid Worcestershire,Westminster Constituency,E14000818,West Midlands Euro Region,106799.059851,823159974.177,#0087DC,Conservative
+409,Newbury,Westminster Constituency,E14000830,South East Euro Region,106799.3011,823163693.061,#0087DC,Conservative
+410,North West Hampshire,Westminster Constituency,E14000857,South East Euro Region,106799.022956,823159405.406,#0087DC,Conservative
+411,Henley,Westminster Constituency,E14000742,South East Euro Region,106799.031467,823159536.661,#0087DC,Conservative
+412,Reading West,Westminster Constituency,E14000890,South East Euro Region,106799.068364,823160105.432,#0087DC,Conservative
+413,Basingstoke,Westminster Constituency,E14000545,South East Euro Region,106799.039982,823159667.916,#0087DC,Conservative
+414,Wokingham,Westminster Constituency,E14001048,South East Euro Region,106799.076879,823160236.686,#0087DC,Conservative
+415,North East Hampshire,Westminster Constituency,E14000844,South East Euro Region,106799.096747,823160542.947,#0087DC,Conservative
+416,East Hampshire,Westminster Constituency,E14000680,South East Euro Region,106799.079717,823160280.438,#0087DC,Conservative
+417,"Southampton, Itchen",Westminster Constituency,E14000955,South East Euro Region,106799.05985,823159974.177,#0087DC,Conservative
+418,Banff and Buchan,Westminster Constituency,S14000007,Scotland Euro Region,106798.658703,823153790.431,#0087DC,Conservative
+419,Moray,Westminster Constituency,S14000046,Scotland Euro Region,106798.689924,823154271.694,#0087DC,Conservative
+420,Dundee East,Westminster Constituency,S14000015,Scotland Euro Region,106798.687085,823154227.943,#FFFF00,Scottish National Party
+421,North East Fife,Westminster Constituency,S14000049,Scotland Euro Region,106798.85454,823156809.265,#FDBB30,Liberal Democrat
+422,East Lothian,Westminster Constituency,S14000020,Scotland Euro Region,106798.74385,823155102.967,#FFFF00,Scottish National Party
+423,Kirkcaldy and Cowdenbeath,Westminster Constituency,S14000041,Scotland Euro Region,106798.369205,823149327.804,#FFFF00,Scottish National Party
+424,Edinburgh West,Westminster Constituency,S14000026,Scotland Euro Region,106798.735335,823154971.714,#FDBB30,Liberal Democrat
+425,Edinburgh South West,Westminster Constituency,S14000025,Scotland Euro Region,106798.406102,823149896.571,#FFFF00,Scottish National Party
+426,Livingston,Westminster Constituency,S14000044,Scotland Euro Region,106798.865893,823156984.271,#FFFF00,Scottish National Party
+427,Lanark and Hamilton East,Westminster Constituency,S14000042,Scotland Euro Region,106798.380558,823149502.809,#FFFF00,Scottish National Party
+428,Workington,Westminster Constituency,E14001053,North West Euro Region,106798.874408,823157115.525,#0087DC,Conservative
+429,Barrow and Furness,Westminster Constituency,E14000543,North West Euro Region,106798.184722,823146483.974,#0087DC,Conservative
+430,Lancaster and Fleetwood,Westminster Constituency,E14000776,North West Euro Region,106798.846026,823156678.012,#DC241F,Labour
+431,Blackburn,Westminster Constituency,E14000570,North West Euro Region,106798.658703,823153790.43,#DC241F,Labour
+432,Rossendale and Darwen,Westminster Constituency,E14000902,North West Euro Region,106798.857379,823156853.017,#0087DC,Conservative
+433,Heywood and Middleton,Westminster Constituency,E14000747,North West Euro Region,106798.670056,823153965.436,#0087DC,Conservative
+434,Oldham West and Royton,Westminster Constituency,E14000871,North West Euro Region,106798.661541,823153834.181,#DC241F,Labour
+435,Bury South,Westminster Constituency,E14000612,North West Euro Region,106798.678571,823154096.689,#0087DC,Conservative
+436,Manchester Central,Westminster Constituency,E14000807,North West Euro Region,106798.650189,823153659.176,#DC241F,Labour
+437,Denton and Reddish,Westminster Constituency,E14000661,North West Euro Region,106798.670056,823153965.435,#DC241F,Labour
+438,Hazel Grove,Westminster Constituency,E14000738,North West Euro Region,106798.658703,823153790.43,#0087DC,Conservative
+439,Stretford and Urmston,Westminster Constituency,E14000979,North West Euro Region,106798.715468,823154665.455,#DC241F,Labour
+440,"Manchester, Withington",Westminster Constituency,E14000809,North West Euro Region,106798.556528,823152215.386,#DC241F,Labour
+441,Wythenshawe and Sale East,Westminster Constituency,E14001059,North West Euro Region,106798.723982,823154796.708,#DC241F,Labour
+442,Macclesfield,Westminster Constituency,E14000802,North West Euro Region,106798.147824,823145915.208,#0087DC,Conservative
+443,Wolverhampton South West,Westminster Constituency,E14001051,West Midlands Euro Region,106798.650189,823153659.176,#0087DC,Conservative
+444,Halesowen and Rowley Regis,Westminster Constituency,E14000722,West Midlands Euro Region,106798.147824,823145915.207,#0087DC,Conservative
+445,"Birmingham, Northfield",Westminster Constituency,E14000565,West Midlands Euro Region,106798.678571,823154096.688,#0087DC,Conservative
+446,Worcester,Westminster Constituency,E14001052,West Midlands Euro Region,106798.670056,823153965.435,#0087DC,Conservative
+447,West Worcestershire,Westminster Constituency,E14001035,West Midlands Euro Region,106798.90279,823157553.037,#0087DC,Conservative
+448,Hereford and South Herefordshire,Westminster Constituency,E14000743,West Midlands Euro Region,106798.658703,823153790.43,#0087DC,Conservative
+449,Cheltenham,Westminster Constituency,E14000630,South West Euro Region,106798.434484,823150334.083,#0087DC,Conservative
+450,The Cotswolds,Westminster Constituency,E14000991,South West Euro Region,106798.670056,823153965.435,#0087DC,Conservative
+451,North Swindon,Westminster Constituency,E14000851,South West Euro Region,106798.417455,823150071.576,#0087DC,Conservative
+452,South Swindon,Westminster Constituency,E14000947,South West Euro Region,106798.843188,823156634.261,#0087DC,Conservative
+453,Romsey and Southampton North,Westminster Constituency,E14000901,South East Euro Region,106798.530984,823151821.625,#0087DC,Conservative
+454,New Forest East,Westminster Constituency,E14000827,South East Euro Region,106798.882923,823157246.778,#0087DC,Conservative
+455,"Southampton, Test",Westminster Constituency,E14000956,South East Euro Region,106798.139309,823145783.955,#DC241F,Labour
+456,Bournemouth East,Westminster Constituency,E14000584,South West Euro Region,106798.834673,823156503.007,#0087DC,Conservative
+457,Ochil and South Perthshire,Westminster Constituency,S14000050,Scotland Euro Region,106798.593265,823152781.759,#FFFF00,Scottish National Party
+458,Dundee West,Westminster Constituency,S14000016,Scotland Euro Region,106799.226192,823162538.353,#FFFF00,Scottish National Party
+459,Dunfermline and West Fife,Westminster Constituency,S14000017,Scotland Euro Region,106799.047384,823159782.006,#FFFF00,Scottish National Party
+460,Linlithgow and East Falkirk,Westminster Constituency,S14000043,Scotland Euro Region,106799.263089,823163107.123,#FFFF00,Scottish National Party
+461,Airdrie and Shotts,Westminster Constituency,S14000003,Scotland Euro Region,106799.041709,823159694.503,#FFFF00,Scottish National Party
+462,Glasgow North East,Westminster Constituency,S14000032,Scotland Euro Region,106799.058736,823159957.012,#FFFF00,Scottish National Party
+463,Motherwell and Wishaw,Westminster Constituency,S14000047,Scotland Euro Region,106799.041706,823159694.503,#FFFF00,Scottish National Party
+464,"East Kilbride, Strathaven and Lesmahagow",Westminster Constituency,S14000019,Scotland Euro Region,106799.058736,823159957.012,#FFFF00,Scottish National Party
+465,Kilmarnock and Loudoun,Westminster Constituency,S14000040,Scotland Euro Region,106799.095633,823160525.782,#FFFF00,Scottish National Party
+466,Preston,Westminster Constituency,E14000885,North West Euro Region,106799.06725,823160088.267,#DC241F,Labour
+467,Fylde,Westminster Constituency,E14000706,North West Euro Region,106799.234708,823162669.608,#0087DC,Conservative
+468,Bury North,Westminster Constituency,E14000611,North West Euro Region,106799.124015,823160963.298,#0087DC,Conservative
+469,Bolton North East,Westminster Constituency,E14000578,North West Euro Region,106798.749368,823155188.093,#0087DC,Conservative
+470,Bolton South East,Westminster Constituency,E14000579,North West Euro Region,106799.078603,823160263.273,#DC241F,Labour
+471,Blackley and Broughton,Westminster Constituency,E14000571,North West Euro Region,106798.752207,823155231.845,#DC241F,Labour
+472,Makerfield,Westminster Constituency,E14000805,North West Euro Region,106799.206324,823162232.092,#DC241F,Labour
+473,Leigh,Westminster Constituency,E14000785,North West Euro Region,106798.760721,823155363.1,#0087DC,Conservative
+474,Worsley and Eccles South,Westminster Constituency,E14001054,North West Euro Region,106799.251736,823162932.117,#DC241F,Labour
+475,Warrington North,Westminster Constituency,E14001017,North West Euro Region,106798.581913,823152606.752,#DC241F,Labour
+476,Altrincham and Sale West,Westminster Constituency,E14000532,North West Euro Region,106799.234706,823162669.608,#0087DC,Conservative
+477,Tatton,Westminster Constituency,E14000987,North West Euro Region,106799.058736,823159957.012,#0087DC,Conservative
+478,Congleton,Westminster Constituency,E14000646,North West Euro Region,106798.797618,823155931.87,#0087DC,Conservative
+479,South Staffordshire,Westminster Constituency,E14000945,West Midlands Euro Region,106799.004809,823159125.732,#0087DC,Conservative
+480,Dudley South,Westminster Constituency,E14000672,West Midlands Euro Region,106798.658544,823153788.044,#0087DC,Conservative
+481,Stourbridge,Westminster Constituency,E14000976,West Midlands Euro Region,106798.984942,823158819.472,#0087DC,Conservative
+482,Wyre Forest,Westminster Constituency,E14001058,West Midlands Euro Region,106799.030354,823159519.497,#0087DC,Conservative
+483,North Herefordshire,Westminster Constituency,E14000847,West Midlands Euro Region,106799.271604,823163238.379,#0087DC,Conservative
+484,Tewkesbury,Westminster Constituency,E14000990,South West Euro Region,106798.99346,823158950.726,#0087DC,Conservative
+485,Gloucester,Westminster Constituency,E14000712,South West Euro Region,106799.001971,823159081.982,#0087DC,Conservative
+486,North Wiltshire,Westminster Constituency,E14000860,South West Euro Region,106799.038868,823159650.752,#0087DC,Conservative
+487,Chippenham,Westminster Constituency,E14000635,South West Euro Region,106799.010486,823159213.236,#0087DC,Conservative
+488,Devizes,Westminster Constituency,E14000665,South West Euro Region,106799.047383,823159782.006,#0087DC,Conservative
+489,Salisbury,Westminster Constituency,E14000912,South West Euro Region,106799.067251,823160088.267,#0087DC,Conservative
+490,New Forest West,Westminster Constituency,E14000828,South East Euro Region,106799.050221,823159825.758,#0087DC,Conservative
+491,Poole,Westminster Constituency,E14000881,South West Euro Region,106799.030353,823159519.497,#0087DC,Conservative
+492,"Caithness, Sutherland and Easter Ross",Westminster Constituency,S14000009,Scotland Euro Region,106799.228959,823162580.912,#FDBB30,Liberal Democrat
+493,Perth and North Perthshire,Westminster Constituency,S14000054,Scotland Euro Region,106799.228959,823162580.912,#FFFF00,Scottish National Party
+494,Stirling,Westminster Constituency,S14000057,Scotland Euro Region,106799.260179,823163062.181,#FFFF00,Scottish National Party
+495,Falkirk,Westminster Constituency,S14000028,Scotland Euro Region,106799.257341,823163018.429,#FFFF00,Scottish National Party
+496,Glasgow North,Westminster Constituency,S14000031,Scotland Euro Region,106799.424795,823165599.779,#FFFF00,Scottish National Party
+497,Glasgow Central,Westminster Constituency,S14000029,Scotland Euro Region,106799.314105,823163893.463,#FFFF00,Scottish National Party
+498,East Dunbartonshire,Westminster Constituency,S14000018,Scotland Euro Region,106798.939463,823158118.238,#FFFF00,Scottish National Party
+499,"Coatbridge, Chryston and Bellshill",Westminster Constituency,S14000011,Scotland Euro Region,106799.305591,823163762.208,#FFFF00,Scottish National Party
+500,Glasgow East,Westminster Constituency,S14000030,Scotland Euro Region,106798.97636,823158687.011,#FFFF00,Scottish National Party
+501,Rutherglen and Hamilton West,Westminster Constituency,S14000056,Scotland Euro Region,106799.436148,823165774.786,#FFFF00,Scottish National Party
+502,Dumfries and Galloway,Westminster Constituency,S14000013,Scotland Euro Region,106798.950816,823158293.245,#0087DC,Conservative
+503,Wyre and Preston North,Westminster Constituency,E14001057,North West Euro Region,106799.228959,823162580.912,#0087DC,Conservative
+504,Blackpool North and Cleveleys,Westminster Constituency,E14000572,North West Euro Region,106799.427633,823165643.531,#0087DC,Conservative
+505,Blackpool South,Westminster Constituency,E14000573,North West Euro Region,106799.240312,823162755.919,#0087DC,Conservative
+506,Chorley,Westminster Constituency,E14000637,North West Euro Region,106799.231797,823162624.664,#AAAAAA,Speaker
+507,Bolton West,Westminster Constituency,E14000580,North West Euro Region,106799.248827,823162887.174,#0087DC,Conservative
+508,Knowsley,Westminster Constituency,E14000775,North West Euro Region,106799.220445,823162449.657,#DC241F,Labour
+509,St. Helens North,Westminster Constituency,E14000962,North West Euro Region,106799.240312,823162755.918,#DC241F,Labour
+510,St. Helens South and Whiston,Westminster Constituency,E14000963,North West Euro Region,106799.228959,823162580.912,#DC241F,Labour
+511,Warrington South,Westminster Constituency,E14001018,North West Euro Region,106799.285723,823163455.946,#0087DC,Conservative
+512,Weaver Vale,Westminster Constituency,E14001024,North West Euro Region,106799.126785,823161005.85,#DC241F,Labour
+513,Eddisbury,Westminster Constituency,E14000686,North West Euro Region,106799.294238,823163587.201,#0087DC,Conservative
+514,Crewe and Nantwich,Westminster Constituency,E14000653,North West Euro Region,106798.718084,823154705.606,#0087DC,Conservative
+515,Wrexham,Westminster Constituency,W07000044,Wales Euro Region,106799.220445,823162449.657,#0087DC,Conservative
+516,Clwyd South,Westminster Constituency,W07000062,Wales Euro Region,106798.718084,823154705.605,#0087DC,Conservative
+517,Brecon and Radnorshire,Westminster Constituency,W07000068,Wales Euro Region,106799.248827,823162887.173,#0087DC,Conservative
+518,Monmouth,Westminster Constituency,W07000054,Wales Euro Region,106799.240312,823162755.918,#0087DC,Conservative
+519,Newport East,Westminster Constituency,W07000055,Wales Euro Region,106799.473044,823166343.559,#DC241F,Labour
+520,Newport West,Westminster Constituency,W07000056,Wales Euro Region,106799.228959,823162580.912,#DC241F,Labour
+521,Cardiff South and Penarth,Westminster Constituency,W07000080,Wales Euro Region,106799.004742,823159124.528,#DC241F,Labour
+522,Forest of Dean,Westminster Constituency,E14000705,South West Euro Region,106799.240312,823162755.919,#0087DC,Conservative
+523,Kingswood,Westminster Constituency,E14000774,South West Euro Region,106798.987713,823158862.018,#0087DC,Conservative
+524,Bath,Westminster Constituency,E14000547,South West Euro Region,106799.413442,823165424.773,#FDBB30,Liberal Democrat
+525,North East Somerset,Westminster Constituency,E14000846,South West Euro Region,106799.10124,823160612.085,#0087DC,Conservative
+526,Christchurch,Westminster Constituency,E14000638,South West Euro Region,106799.453177,823166037.297,#0087DC,Conservative
+527,Bournemouth West,Westminster Constituency,E14000585,South West Euro Region,106798.709569,823154574.351,#0087DC,Conservative
+528,West Dunbartonshire,Westminster Constituency,S14000059,Scotland Euro Region,106799.254049,823162967.774,#FFFF00,Scottish National Party
+529,"Cumbernauld, Kilsyth and Kirkintilloch East",Westminster Constituency,S14000012,Scotland Euro Region,106799.075241,823160211.426,#FFFF00,Scottish National Party
+530,Glasgow North West,Westminster Constituency,S14000033,Scotland Euro Region,106799.290946,823163536.545,#FFFF00,Scottish National Party
+531,Paisley and Renfrewshire North,Westminster Constituency,S14000052,Scotland Euro Region,106799.069566,823160123.923,#FFFF00,Scottish National Party
+532,Glasgow South West,Westminster Constituency,S14000035,Scotland Euro Region,106799.086593,823160386.432,#FFFF00,Scottish National Party
+533,Glasgow South,Westminster Constituency,S14000034,Scotland Euro Region,106799.069563,823160123.923,#FFFF00,Scottish National Party
+534,East Renfrewshire,Westminster Constituency,S14000021,Scotland Euro Region,106799.086593,823160386.432,#FFFF00,Scottish National Party
+535,"Dumfriesshire, Clydesdale and Tweeddale",Westminster Constituency,S14000014,Scotland Euro Region,106799.12349,823160955.202,#0087DC,Conservative
+536,South Ribble,Westminster Constituency,E14000943,North West Euro Region,106798.777225,823155617.511,#0087DC,Conservative
+537,Wigan,Westminster Constituency,E14001039,North West Euro Region,106799.10646,823160692.693,#DC241F,Labour
+538,"Liverpool, Walton",Westminster Constituency,E14000794,North West Euro Region,106798.780064,823155661.263,#DC241F,Labour
+539,"Liverpool, West Derby",Westminster Constituency,E14000796,North West Euro Region,106799.234181,823162661.514,#DC241F,Labour
+540,"Liverpool, Wavertree",Westminster Constituency,E14000795,North West Euro Region,106798.788578,823155792.517,#DC241F,Labour
+541,Halton,Westminster Constituency,E14000725,North West Euro Region,106799.279593,823163361.539,#DC241F,Labour
+542,Garston and Halewood,Westminster Constituency,E14000708,North West Euro Region,106798.60977,823153036.169,#DC241F,Labour
+543,City of Chester,Westminster Constituency,E14000640,North West Euro Region,106799.262563,823163099.03,#DC241F,Labour
+544,Delyn,Westminster Constituency,W07000042,Wales Euro Region,106799.086593,823160386.432,#0087DC,Conservative
+545,Alyn and Deeside,Westminster Constituency,W07000043,Wales Euro Region,106798.825475,823156361.288,#DC241F,Labour
+546,Dwyfor Meirionnydd,Westminster Constituency,W07000061,Wales Euro Region,106799.032666,823159555.152,#008142,Plaid Cymru
+547,Montgomeryshire,Westminster Constituency,W07000063,Wales Euro Region,106798.686401,823154217.461,#0087DC,Conservative
+548,Ceredigion,Westminster Constituency,W07000064,Wales Euro Region,106799.012799,823159248.892,#008142,Plaid Cymru
+549,Torfaen,Westminster Constituency,W07000053,Wales Euro Region,106799.058211,823159948.917,#DC241F,Labour
+550,Cynon Valley,Westminster Constituency,W07000070,Wales Euro Region,106799.299461,823163667.801,#DC241F,Labour
+551,Caerphilly,Westminster Constituency,W07000076,Wales Euro Region,106799.021317,823159380.146,#DC241F,Labour
+552,Cardiff Central,Westminster Constituency,W07000050,Wales Euro Region,106799.029828,823159511.401,#DC241F,Labour
+553,North Somerset,Westminster Constituency,E14000850,South West Euro Region,106799.066725,823160080.172,#0087DC,Conservative
+554,Stroud,Westminster Constituency,E14000980,South West Euro Region,106799.038343,823159642.656,#0087DC,Conservative
+555,Bristol East,Westminster Constituency,E14000599,South West Euro Region,106799.07524,823160211.426,#DC241F,Labour
+556,Bristol South,Westminster Constituency,E14000601,South West Euro Region,106799.095108,823160517.687,#DC241F,Labour
+557,South West Wiltshire,Westminster Constituency,E14000954,South West Euro Region,106799.078078,823160255.178,#0087DC,Conservative
+558,Mid Dorset and North Poole,Westminster Constituency,E14000815,South West Euro Region,106799.05821,823159948.917,#0087DC,Conservative
+559,South Dorset,Westminster Constituency,E14000936,South West Euro Region,106799.078078,823160255.177,#0087DC,Conservative
+560,"Ross, Skye and Lochaber",Westminster Constituency,S14000055,Scotland Euro Region,106799.122965,823160947.108,#FFFF00,Scottish National Party
+561,"Inverness, Nairn, Badenoch and Strathspey",Westminster Constituency,S14000039,Scotland Euro Region,106799.290421,823163528.451,#FFFF00,Scottish National Party
+562,Argyll and Bute,Westminster Constituency,S14000005,Scotland Euro Region,106799.179729,823161822.139,#FFFF00,Scottish National Party
+563,Inverclyde,Westminster Constituency,S14000038,Scotland Euro Region,106798.805083,823156046.929,#FFFF00,Scottish National Party
+564,Central Ayrshire,Westminster Constituency,S14000010,Scotland Euro Region,106799.171215,823161690.885,#FFFF00,Scottish National Party
+565,"Ayr, Carrick and Cumnock",Westminster Constituency,S14000006,Scotland Euro Region,106798.84198,823156615.7,#FFFF00,Scottish National Party
+566,Paisley and Renfrewshire South,Westminster Constituency,S14000053,Scotland Euro Region,106799.301774,823163703.458,#FFFF00,Scottish National Party
+567,West Lancashire,Westminster Constituency,E14001033,North West Euro Region,106799.09742,823160553.343,#DC241F,Labour
+568,Southport,Westminster Constituency,E14000958,North West Euro Region,106799.11445,823160815.853,#0087DC,Conservative
+569,Sefton Central,Westminster Constituency,E14000916,North West Euro Region,106799.086067,823160378.337,#DC241F,Labour
+570,Wallasey,Westminster Constituency,E14001010,North West Euro Region,106799.105935,823160684.598,#DC241F,Labour
+571,"Liverpool, Riverside",Westminster Constituency,E14000793,North West Euro Region,106799.094582,823160509.591,#DC241F,Labour
+572,Wirral South,Westminster Constituency,E14001043,North West Euro Region,106799.151347,823161384.623,#DC241F,Labour
+573,Ellesmere Port and Neston,Westminster Constituency,E14000688,North West Euro Region,106798.992407,823158934.534,#DC241F,Labour
+574,Vale of Clwyd,Westminster Constituency,W07000060,Wales Euro Region,106799.159862,823161515.878,#0087DC,Conservative
+575,Blaenau Gwent,Westminster Constituency,W07000072,Wales Euro Region,106799.105935,823160684.598,#DC241F,Labour
+576,Islwyn,Westminster Constituency,W07000077,Wales Euro Region,106799.338671,823164272.229,#DC241F,Labour
+577,Rhondda,Westminster Constituency,W07000052,Wales Euro Region,106799.094582,823160509.591,#DC241F,Labour
+578,Cardiff North,Westminster Constituency,W07000051,Wales Euro Region,106798.870362,823157053.216,#DC241F,Labour
+579,Thornbury and Yate,Westminster Constituency,E14000994,South West Euro Region,106799.279068,823163353.445,#0087DC,Conservative
+580,Bristol West,Westminster Constituency,E14000602,South West Euro Region,106798.966862,823158540.77,#DC241F,Labour
+581,Wells,Westminster Constituency,E14001026,South West Euro Region,106799.318803,823163965.968,#0087DC,Conservative
+582,North Dorset,Westminster Constituency,E14000839,South West Euro Region,106798.575185,823152503.051,#0087DC,Conservative
+583,West Dorset,Westminster Constituency,E14001031,South West Euro Region,106799.270553,823163222.191,#0087DC,Conservative
+584,Na h-Eileanan an Iar,Westminster Constituency,S14000027,Scotland Euro Region,106798.608013,823153009.097,#FFFF00,Scottish National Party
+585,North Ayrshire and Arran,Westminster Constituency,S14000048,Scotland Euro Region,106799.073484,823160184.352,#FFFF00,Scottish National Party
+586,Bootle,Westminster Constituency,E14000581,North West Euro Region,106799.221072,823162459.433,#DC241F,Labour
+587,Wirral West,Westminster Constituency,E14001044,North West Euro Region,106798.775469,823155590.438,#DC241F,Labour
+588,Birkenhead,Westminster Constituency,E14000559,North West Euro Region,106799.266484,823163159.458,#DC241F,Labour
+589,Aberconwy,Westminster Constituency,W07000058,Wales Euro Region,106799.249454,823162896.949,#0087DC,Conservative
+590,Clwyd West,Westminster Constituency,W07000059,Wales Euro Region,106799.073484,823160184.352,#0087DC,Conservative
+591,Merthyr Tydfil and Rhymney,Westminster Constituency,W07000071,Wales Euro Region,106799.045102,823159746.837,#DC241F,Labour
+592,Neath,Westminster Constituency,W07000069,Wales Euro Region,106799.286351,823163465.72,#DC241F,Labour
+593,Pontypridd,Westminster Constituency,W07000075,Wales Euro Region,106799.008207,823159178.066,#DC241F,Labour
+594,Cardiff West,Westminster Constituency,W07000079,Wales Euro Region,106799.016719,823159309.321,#DC241F,Labour
+595,Filton and Bradley Stoke,Westminster Constituency,E14000702,South West Euro Region,106799.062131,823160009.346,#0087DC,Conservative
+596,Bristol North West,Westminster Constituency,E14000600,South West Euro Region,106799.081998,823160315.607,#DC241F,Labour
+597,Somerton and Frome,Westminster Constituency,E14000932,South West Euro Region,106799.064969,823160053.098,#0087DC,Conservative
+598,Yeovil,Westminster Constituency,E14001060,South West Euro Region,106799.045101,823159746.837,#0087DC,Conservative
+599,Arfon,Westminster Constituency,W07000057,Wales Euro Region,106799.154946,823161440.098,#008142,Plaid Cymru
+600,Swansea East,Westminster Constituency,W07000048,Wales Euro Region,106799.333755,823164196.449,#DC241F,Labour
+601,Aberavon,Westminster Constituency,W07000049,Wales Euro Region,106799.089666,823160433.811,#DC241F,Labour
+602,Ogmore,Westminster Constituency,W07000074,Wales Euro Region,106798.865446,823156977.436,#DC241F,Labour
+603,Vale of Glamorgan,Westminster Constituency,W07000078,Wales Euro Region,106799.101019,823160608.818,#0087DC,Conservative
+604,Weston-Super-Mare,Westminster Constituency,E14001038,South West Euro Region,106799.313887,823163890.188,#0087DC,Conservative
+605,Taunton Deane,Westminster Constituency,E14000988,South West Euro Region,106798.570269,823152427.271,#0087DC,Conservative
+606,Tiverton and Honiton,Westminster Constituency,E14000996,South West Euro Region,106799.265637,823163146.41,#0087DC,Conservative
+607,East Devon,Westminster Constituency,E14000678,South West Euro Region,106799.061285,823159996.296,#0087DC,Conservative
+608,Ynys Mon,Westminster Constituency,W07000041,Wales Euro Region,106798.65893,823153793.962,#0087DC,Conservative
+609,Gower,Westminster Constituency,W07000046,Wales Euro Region,106799.34862,823164425.604,#DC241F,Labour
+610,Swansea West,Westminster Constituency,W07000047,Wales Euro Region,106799.070476,823160137.946,#DC241F,Labour
+611,Bridgend,Westminster Constituency,W07000073,Wales Euro Region,106799.078987,823160269.201,#0087DC,Conservative
+612,Bridgwater and West Somerset,Westminster Constituency,E14000595,South West Euro Region,106799.127237,823161012.978,#0087DC,Conservative
+613,Central Devon,Westminster Constituency,E14000623,South West Euro Region,106799.10737,823160706.717,#0087DC,Conservative
+614,Exeter,Westminster Constituency,E14000698,South West Euro Region,106799.127237,823161012.978,#DC241F,Labour
+615,Newton Abbot,Westminster Constituency,E14000835,South West Euro Region,106799.368488,823164731.865,#0087DC,Conservative
+616,Torbay,Westminster Constituency,E14000999,South West Euro Region,106799.127237,823161012.978,#0087DC,Conservative
+617,Carmarthen East and Dinefwr,Westminster Constituency,W07000067,Wales Euro Region,106799.333825,823164197.552,#008142,Plaid Cymru
+618,Carmarthen West and South Pembrokeshire,Westminster Constituency,W07000066,Wales Euro Region,106799.109605,823160741.161,#0087DC,Conservative
+619,North Devon,Westminster Constituency,E14000838,South West Euro Region,106798.814428,823156190.975,#0087DC,Conservative
+620,Torridge and West Devon,Westminster Constituency,E14001000,South West Euro Region,106799.509795,823166910.164,#0087DC,Conservative
+621,South West Devon,Westminster Constituency,E14000950,South West Euro Region,106799.305444,823163760.034,#0087DC,Conservative
+622,Totnes,Westminster Constituency,E14001001,South West Euro Region,106799.538178,823167347.681,#0087DC,Conservative
+623,Llanelli,Westminster Constituency,W07000045,Wales Euro Region,106799.183551,823161880.884,#DC241F,Labour
+624,Preseli Pembrokeshire,Westminster Constituency,W07000065,Wales Euro Region,106799.192063,823162012.14,#0087DC,Conservative
+625,"Plymouth, Moor View",Westminster Constituency,E14000879,South West Euro Region,106799.240312,823162755.919,#0087DC,Conservative
+626,"Plymouth, Sutton and Devonport",Westminster Constituency,E14000880,South West Euro Region,106799.481559,823166474.814,#DC241F,Labour
+627,North Cornwall,Westminster Constituency,E14000837,South West Euro Region,106799.064562,823160046.816,#0087DC,Conservative
+628,South East Cornwall,Westminster Constituency,E14000938,South West Euro Region,106799.297297,823163634.446,#0087DC,Conservative
+629,St. Austell and Newquay,Westminster Constituency,E14000961,South West Euro Region,106799.347186,823164403.483,#0087DC,Conservative
+630,Truro and Falmouth,Westminster Constituency,E14001003,South West Euro Region,106799.105935,823160684.598,#0087DC,Conservative
+631,Camborne and Redruth,Westminster Constituency,E14000616,South West Euro Region,106799.292381,823163558.666,#0087DC,Conservative
+632,St. Ives,Westminster Constituency,E14000964,South West Euro Region,106799.076439,823160229.918,#0087DC,Conservative
