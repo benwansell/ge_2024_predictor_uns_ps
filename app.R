@@ -8,10 +8,6 @@ library(leaflet)
 # library(rgeos)
 # library(rgdal)
 
-#setwd("~/Dropbox/GitHub/Oxford Shiny Apps/New Boundaries GE24")
-
-# Note I have no idea why it put the map up this time when I excluded it last time I deployed but perhaps it is out of sync on Oxford
-# Accordingly to have version online need to decomment the packages and maps
 
 mps_simple <- read.csv("ge_19_hp_all.csv")
 mps_simple <- mps_simple %>% 
